@@ -37,15 +37,3 @@ F(10) = 55
 F(20) = 6765
 F(50) = 12586269025
 ```
-
-## 5. Đánh giá
-- ✅ Đúng kết quả F(10), F(20), F(50)  
-- ✅ Sử dụng DP + BigInt  
-- ✅ Đo thời gian 10 lần, báo cáo trung bình <1ms cho n=50  
-- ✅ Báo cáo độ phức tạp rõ ràng  
-- ✅ Mã nguồn chú thích rõ ràng
-
-## 6. Sản phẩm nộp
-- Mã nguồn: `fib50.js`  
-- Báo cáo: `BAI2_REPORT.md`  
-- Ảnh chụp log chạy: benchmark + kết quả F(10), F(20), F(50).
